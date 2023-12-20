@@ -8,6 +8,7 @@ Assignment 6 Solution
 
 # GitHub link to your (forked) repository
 
+https://github.com/LorenaRaichle/Assignment6
 
 # Task 1
 
